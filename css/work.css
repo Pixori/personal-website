@@ -20,15 +20,3 @@
 .project img:hover {
   transform: scale(1.05);
 }
-
-.more {
-  display: flex;
-  flex-direction: row;
-  gap: 0.75rem;
-  align-items: center;
-  justify-content: center;
-  border-top: solid 2px;
-  border-bottom: solid 2px;
-  border-color: black;
-  font-size: 1.75rem;
-}
