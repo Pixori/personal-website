@@ -1,0 +1,22 @@
+/* Navigation/Header */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5%;
+  background-color: white;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+}
+
+.menu li {
+  margin-left: 2rem;
+}
+
+.menu a {
+  font-size: 1.75rem;
+  font-weight: 500;
+}

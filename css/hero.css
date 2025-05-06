@@ -1,0 +1,13 @@
+#hero {
+  padding: 4rem 5%;
+  background-color: white;
+}
+
+#hero h1 {
+  max-width: 26ch;
+}
+
+#hero p {
+  font-size: 1.25rem;
+  max-width: 50ch;
+}

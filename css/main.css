@@ -1,0 +1,8 @@
+/* Import all CSS files */
+@import "reset.css";
+@import "header.css";
+@import "footer.css";
+@import "hero.css";
+@import "work.css";
+@import "contact.css";
+@import "responsive.css";

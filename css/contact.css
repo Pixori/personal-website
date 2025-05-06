@@ -1,0 +1,15 @@
+.contact-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+}
+
+.social {
+  gap: 0.5rem;
+}
+
+.social a {
+  margin-right: 1rem;
+}
